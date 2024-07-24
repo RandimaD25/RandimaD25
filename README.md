@@ -7,7 +7,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Node.js**
 
