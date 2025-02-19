@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **randimamethminid525@gmail.com**
 
-- 📄 Know about my experiences [Randima_Dias_CV-SE](https://drive.google.com/file/d/1snH1f9OA27UpW4N3GI4Ia3TEbHsUmPMu/view?usp=sharing)
+- 📄 Know about my experiences [Randima_Dias_CV-SE](https://drive.google.com/file/d/1hjqg5Zw3D6Zjv7Bm9nlZsGLsDtLropWP/view?usp=sharing)
 
 - ⚡ Fun fact **I am a music and meme lover.**
 
