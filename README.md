@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/ec0990fc2c208b85a2e641c628d617dd/9e497935-ad65-4c94-9f9f-7559383bf434_rwc_-2x59x1584x277x1584.png?h=2bbb8a8cc7a5a67adcbe49041190c971)
+![MasterHead](https://www.behance.net/gallery/224073275/LinkedIn-Banner?)
 <h1 align="center">Hi 👋, I'm Randima Dias</h1>
 <h3 align="center">A passionate both frontend and backend from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="300" height="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
