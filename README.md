@@ -7,7 +7,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **Java and C#**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Node.js**
 
